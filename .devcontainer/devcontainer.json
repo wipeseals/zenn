@@ -10,6 +10,15 @@
 			"version": "lts",
 			"nvmVersion": "latest"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"yzhang.markdown-all-in-one",
+				"DavidAnson.vscode-markdownlint",
+				"esbenp.prettier-vscode"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.

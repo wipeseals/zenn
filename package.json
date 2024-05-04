@@ -5,7 +5,9 @@
   "repository": "https://github.com/wipeseals/zenn.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "article": "npx zenn new:article",
+    "book": "npx zenn new:book",
+    "preview": "npx zenn preview"
   },
   "keywords": [],
   "author": "wipeseals",
